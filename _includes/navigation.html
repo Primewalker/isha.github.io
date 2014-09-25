@@ -27,7 +27,7 @@
   	{% endif %}
   </header><!-- /.masthead -->
 {% else %}
-  {% unless include.post %}
+  {% if include.show_logo_title_description%}
     <header class="masthead">
     	<div class="wrap">
         {% if site.logo != null %}
@@ -38,7 +38,7 @@
     		<h2 class="site-description animated fadeIn" itemprop="description">{{ site.description }}</h2>
     	</div>
     </header><!-- /.masthead -->
-  {% endunless %}
+  {% endif %}
 {% endif %}
 
 <div class="js-menu-screen menu-screen"></div>

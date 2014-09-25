@@ -2,6 +2,7 @@
 layout: page
 title: About Isha
 modified: 2014-08-08T19:44:38.564948-04:00
+show_title: true
 image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics
