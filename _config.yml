@@ -5,7 +5,7 @@ locale: en_US
 description: Wherein I try to use words.
 logo: site-logo.png
 search: true
-url: http://isha.github.io
+#url: http://isha.github.io
 
 
 # Jekyll configuration
@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Isha
-  avatar: bio-photo.jpg
+  avatar: isha.jpg
   email: isha.kumaarr@gmail.com
   disqus-shortname:
   twitter: IshaKumaarr
