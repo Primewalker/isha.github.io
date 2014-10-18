@@ -18,11 +18,11 @@ I will be working with the UBC Laptop Orchestra along with 3 other students. We 
 Working with randomly assigned groups can be tricky, but I think I got a pretty rad bunch of folks to work with. I mean, a group selfie was one of the first things we did as a team.
 
 <figure>
-  <img src="/images/viper-team-selfie.jpg" alt="ViPer team selfie"></a>
+  <img src="/images/viper-team-selfie.jpg" alt="ViPer team selfie">
   <figcaption>From left to right - Anupam, Jun, Joey and yours truly.</figcaption>
 </figure>
 
-The list of awesome people doesn't end here. Our supervising professor, [Dr. Sid Fels](http://www.ece.ubc.ca/faculty/sid-fels) is internationally known for his work in 3D displays, biomechanical modeling, neural networks, new interfaces for musical expression and interactive arts. The project proposal itself comes from two very excellent people, [Dr. Robert Pritchard](http://music.ubc.ca/person/robert-pritchard/) and [Dr. Keith Hamel](http://music.ubc.ca/person/keith-hamel/). <i>These guys have their own wikipedia pages.</i>
+The list of awesome people doesn't end here. Our supervising professor, [Dr. Sid Fels](http://www.ece.ubc.ca/faculty/sid-fels) is internationally known for his work in 3D displays, biomechanical modeling, neural networks, new interfaces for musical expression and interactive arts. The project proposal itself comes from two very excellent people, [Dr. Robert Pritchard](http://music.ubc.ca/person/robert-pritchard/) and [Dr. Keith Hamel](http://music.ubc.ca/person/keith-hamel/). *These guys have their own wikipedia pages.*
 
 As with any study space in any university, it is pretty much impossible to find a space that satisfies these basic requirements:
 
@@ -32,6 +32,6 @@ As with any study space in any university, it is pretty much impossible to find 
 
 Luckily Dr. Pritchard was able to hook us up with a sweet space at the [MAGIC](http://www.magic.ubc.ca/) lab at UBC. Now in addition to all of those points mentioned above, we have Tim Hortons nearby!
 
-Since ViPer will be used in performance this December, we need to get shit done. And get it done <i>fast</i>.
+Since ViPer will be used in performance this December, we need to get shit done. And get it done *fast*.
 
 **41 days till showtime.**
