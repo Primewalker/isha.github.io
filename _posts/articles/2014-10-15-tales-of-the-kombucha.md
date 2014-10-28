@@ -19,7 +19,9 @@ So this August when I moved into my new house in Vancouver, I was greatly curiou
 
 Here is my sketchnoted recipe to make kombucha:
 <figure>
-  <img src="/images/kombucha-sketchnoted-recipe.png" alt="Kombucha recipe">
+  <a href="http://ishakumaarr.com/images/kombucha-sketchnoted-recipe.png">
+    <img src="/images/kombucha-sketchnoted-recipe.png" alt="Kombucha recipe">
+  </a>
 </figure>
 
 Every batch results in a new SCOBY layer forming on top of your old one, so getting a layer from a friend would be the best way to go. You can also find people selling kombucha mothers in classified ads. I have also heard of people growing their own mother from raw bottled kombucha. The starter liquid is just kombucha from a previous batch or raw bottled kombucha from a store (make sure its the raw kind - you'll see brown culture deposits in the bottom of the bottle). Any kind of black or green tea can be used to make kombucha.
