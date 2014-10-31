@@ -4,9 +4,8 @@ title: About Isha
 modified: 2014-09-24
 show_title: true
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: dreamcatcher.jpg
+  credit: Dyaa Eldin
 ---
 
 Isha is currently a software engineering student at [University of British Columbia](http://www.ubc.ca/) located in the beautiful city of Vancouver and developer at [Shopify](http://www.shopify.com/).

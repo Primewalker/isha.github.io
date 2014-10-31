@@ -6,6 +6,8 @@ categories: articles
 tags: [UBC, sketchnote]
 comments: true
 share: true
+image:
+  feature: skating-man.jpg
 ---
 
 Recently the Viper team gave our very first presentation as a group. We presented our project proposal to Dr. Fels and our TA, Pooneh. I have a strong distaste for boring slides and unusual liking towards doodling. So I experimented with using the [Paper](https://www.fiftythree.com/paper) app to draw out my slides. Here are some of the slides we used:
