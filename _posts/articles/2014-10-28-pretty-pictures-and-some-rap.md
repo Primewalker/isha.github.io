@@ -3,7 +3,7 @@ layout: post
 title: Pretty pictures and some rap
 excerpt: "A not so boring project proposal"
 categories: articles
-tags: [UBC, sketchnote]
+tags: [UBC, sketchnote, viper]
 comments: true
 share: true
 image:

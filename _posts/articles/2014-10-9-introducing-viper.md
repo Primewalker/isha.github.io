@@ -3,7 +3,7 @@ layout: post
 title: Introducing ViPer
 excerpt: "Not just a badass acronym."
 categories: articles
-tags: [coding, UBC]
+tags: [coding, UBC, viper]
 comments: true
 share: true
 ---
