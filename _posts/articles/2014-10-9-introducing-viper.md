@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing ViPer
+title: Introducing Viper
 excerpt: "Not just a badass acronym."
 categories: articles
 tags: [coding, UBC, viper]
@@ -18,7 +18,7 @@ I will be working with the UBC Laptop Orchestra along with 3 other students. We 
 Working with randomly assigned groups can be tricky, but I think I got a pretty rad bunch of folks to work with. I mean, a group selfie was one of the first things we did as a team.
 
 <figure>
-  <img src="/images/viper-team-selfie.jpg" alt="ViPer team selfie">
+  <img src="/images/viper-team-selfie.jpg" alt="Viper team selfie">
   <figcaption>From left to right - Anupam, Jun, Joey and yours truly.</figcaption>
 </figure>
 
@@ -32,6 +32,6 @@ As with any study space in any university, it is pretty much impossible to find 
 
 Luckily Dr. Pritchard was able to hook us up with a sweet space at the [MAGIC](http://www.magic.ubc.ca/) lab at UBC. Now in addition to all of those points mentioned above, we have Tim Hortons nearby!
 
-Since ViPer will be used in performance this December, we need to get shit done. And get it done *fast*.
+Since Viper will be used in performance this December, we need to get shit done. And get it done *fast*.
 
 **41 days till showtime.**
