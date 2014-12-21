@@ -18,7 +18,7 @@ On December 11th, the UBC Laptop Orchestra performed at the UBC School of Music.
 </figure>
 
 See below a video clip from one of the performances that night:
-
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=Unf8q8A47XU" frameborder="0"> </iframe>
-
+<p>
+<iframe width="560" height="315" src="//www.youtube.com/embed/Unf8q8A47XU" frameborder="0"> </iframe>
+</p>
 
