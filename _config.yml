@@ -1,11 +1,7 @@
 # Site wide configuration
-
-title: Isha
 locale: en_US
-description: Sometimes I try to use words.
-logo: site-logo.png
 search: true
-url: http://isha.tech
+url: http://nolast.name
 
 
 # Jekyll configuration
@@ -35,19 +31,3 @@ owner:
   name: Isha
   avatar: isha.jpg
   email: isha.kumaarr@gmail.com
-  disqus-shortname: ishakumaarr
-  twitter: IshaKumaarr
-  facebook: #username
-  github: isha
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: ishakumaarr
-  flickr: #username
-  tumblr: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
