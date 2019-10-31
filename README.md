@@ -20,7 +20,7 @@ See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) h
 
 ---
 
-## Getting Started
+# Getting Started
 
 So Simple takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
 
